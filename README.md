@@ -14,7 +14,8 @@ This Power BI dashboard analyzes Blinkit’s sales performance, outlet establish
 - Visualization & DAX  
 
 ## 📸 Dashboard Preview
-![Blinkit Dashboard](Blinkit_Dashboard.png)
+<img width="1310" height="697" alt="image" src="https://github.com/user-attachments/assets/66389002-9567-461b-82b0-2440b5e1d717" />
+
 
 ## 👨‍💻 Created By
 **Harsh Gupta**
